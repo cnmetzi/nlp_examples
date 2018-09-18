@@ -9,7 +9,13 @@ Copy the notebook to your own computer and change the inputs in the user-defined
 ### Prerequisites
 
 You need to have the following installed:
+Python 3.6
 NLTK
+WordCloud
+Collections
+Matplotlib
+Gensim
+PyLDAvis
 
 ```
 You can confirm you have these installed already by running the first block of code
