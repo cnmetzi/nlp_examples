@@ -4,7 +4,7 @@ Tutorial to introduce NLP techniques
 
 ## Getting Started
 
-Copy the notebook to your own computer and change the inputs in the user-defined parameters block
+Copy the notebook to your own computer and change the inputs in the user-entered parameters block
 
 ### Prerequisites
 
