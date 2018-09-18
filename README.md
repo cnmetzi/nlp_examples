@@ -9,7 +9,7 @@ Copy the notebook to your own computer and change the inputs in the user-defined
 ### Prerequisites
 
 You need to have the following installed:
-1. Python 3.6
+1. Python 3.x
 2. NLTK
 3. WordCloud
 4. Collections
